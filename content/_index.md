@@ -48,7 +48,7 @@ sections:
           features:
             - "Adres: Mimar Sinan, Paşa Limanı Cd. No:4, 34550 Üsküdar/İstanbul"
             - "Web sitesi: https://a11hotel.com/"
-            - "Not: Düğün için otelde oda ayırttık. Bu odalardan birine sahip olmak için lütfen onlarla iletişime geçin ve düğünden bahsedin."
+            - "Not: Davetlilerimiz için otelde sınırlı sayıda oda ayırtılmıştır. Bilgi ve rezervasyon için Hasret Hanım'a ulaşabilirsiniz: +90 542 229 88 99"
           # Upload image to `assets/media/` and reference the filename here
           image: A11_wedding.jpeg
           button:

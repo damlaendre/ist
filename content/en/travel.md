@@ -3,29 +3,51 @@ title: How to get there & around
 share: true
 ---
 
-### ✈️ Flying to Romania
+## ✈️ Flying to Istanbul
 
-We recommend to check the flights to Bucharest (3 hours), Sibiu (3 hours), Târgu Mureș (3 hours), Bacău (3 hours) and Cluj-Napoca (4 hours) as the airports closest to the city. Of the three, Cluj-Napoca is the furthest away. Bucharest is generally the best connected by public transport.
+Istanbul has two airports. The one on the Anatalion side is Sabiha Gokcen Airport (SAW) and it is the closest one to the venue. We strongly suggest you use this airport instead of the other. There is a direct subway from the airport to the hotel (or many places on the Anatolian side in general) for those who will be staying there. Reaching the hotel from Kadikoy (the Anatolian side's central point) is also possible by subway. If you choose to stay on the European side, you can’t use the subway only, but you need to take the Marmaray that ultimately also goes under the water.
 
-### Getting around in Romania
+The second, much further away airport is the Istanbul Airport (IST), from which there is no direct public transportation to the city.
+The airport is also 3 hours away from "central" Istanbul. Still there are airport shuttles to central locations from this airport as well.
 
-#### 🚆 Trains
+## Getting around in Istanbul
 
-Most trains are operated by the state-owned company CFR. You can find train schedules at https://www.infofer.ro/. Online tickets often need to be bought a day in advance, otherwise you have to buy them at the stations. The timetable is also available on the website https://www.infofer.ro/. 
+One needs an Istanbulkart to use the public transportation. This you can get from the machines at the airport. You can then connect it to the application on your phone and connect it to your credit card as well. If you choose, you can also put money into your card from the machines at the entrance/exit of subway stations, ferries/motoboats, and metrobuses. They can be used on almost every public transportation vehicle, excluding the Dolmuş - Minibuses.
 
-A minority of trains are operated by private companies. The most important one is Regio Călători. You can find the timetable of the trains on the website: https://regiocalatori.ro/mersul-trenurilor/#/cautare/ Tickets can also be bought at some of the train stations: https://regiocalatori.ro/mersul-trenurilor/program-case-de-bilete/ This may be particularly relevant for the Bucharest-Brașov route, if you are flying in/out of Bucharest. 
+Istanbulkart official website: https://www.istanbulkart.istanbul/
 
-#### 🚌 (Mini) buses 
+When using the subways or metrobuses, you should ask for a refund of your travel ticket if you don't travel the entire length of the line, before you exit the station. However, for those without a personalised Istanbulkart for travel, the fee for a single journey is always calculated at the maximum. This means that they charge you as if you have used the entire line from one end to another. If you personalise your card, you can get some refund at the end of your trip, to do so you should tap your card to the refund machines. Those without a Turkish ID number can unfortunately not personalise their cards, but a Turkish citizen can own up to 4 cards under their name, so you might want to make new friends to ask about this too!
 
-Intercity minibuses are a good alternative to trains. You can find the schedule of minibuses on the website: https://www.autogari.ro/. 
+!!! Most public transportation stop around midnight in Istanbul!!!
+Yes, we know it is crazy...
 
-Some companies also run airport shuttles, for example from Bucharest. The schedule for these can be found on the same website. It might be wise to call/book them in advance. At Otopeni Airport they leave from the ground floor of the parking garage, opposite the building. You need to check if you can book the shuttle to Sfântu Gheorghe or to Brașov. In the latter case, there are other minibuses to Sfântu Gheorghe every half hour from Brașov train station. 
+## 🚆 Subway (Metro)
 
-#### 🚗 Car rentals 
+### Marmaray
 
-The main car rental companies are all present in Romania, usually at the airports, but not only. A local alternative is: https://www.westtaxi.ro/en/ You can also use this company to book a private airport transfer.
+We have a speacial subway line that connects both continents through a train tunnel that goes under the sea. If you choose to stay on the European side, you need to take this one to reach the venue. Marmaray also connects to the subway lines very smoothly and cover a large area. It is Damla's favourite means of transportation after the ferry/motorboat in Istanbul.
 
-#### 🚕 Taxis
+## 🚌 Buses / Metrobuses
 
-Please note that you can only pay for taxis in cash, in Romanian lei. Some of the taxi numbers in Sepsiszentgyörgy are: [+40740439999](call:+40740439999); [+40723484060](call:+40723484060); [+40744839707](call:+40744839707); [+40722271903](call:+40722271903).
+You can use your Istanbulkart for the busses too but be aware that you can not top up your card on the bus. If you get on and your card screams that you do not have enough money on it, your only option is to try and ask someone to lend you their card and you pay them in cash. With the personalisation requirement for the Istanbulkart, doing so would cause the other person to be rejected or be understood as a transfer and might be problematic for them in the future so they would be more inclined to refuse this favour. So make sure you have enough money on your card before getting on a bus.
+Metrobuses are also buses, that are slightly larger in size and they have their own lane to cross over the Bosphorus through the bridges.
 
+### Dolmuş - Minibuses
+
+Dolmuş is the big yellow taxi looking minibus that is peculiar to Istanbul. You don't need a ticket for it in advance. Once you are in, you tell the driver where you want to get off, and they tell you the price. If you can't directly give the money to the driver, you need to ask for the people in front of you to pass around your money. It's normal, don't worry. You just need to yell where you want to get off or ask the driver to tell you where you need to get off to get to where you wanted to go. Needless to say this is all a very Turkish experience and an expert tourist challenge.
+
+## Ferries/Motor(boat)s
+
+Best way to explore the Bosphorus is by taking a ferry or a motorboat to cross from one side to another. It is also the perfect way to travel in the summer! You can use your Istanbulkart for them.
+
+## 🚗 Car rentals 
+
+Driving in Istanbul is not something we suggest. If you still intend to drive, you need to know that parking is most often not free and you need to pay the people in uniforms before you leave. There are not really meters that you can make the payment. But as long as you find the responsible person, you might even be able to pay with a credit card. The hotel where the wedding will be also has a car parking service, which costs 100 TRY per car, to be paid in cash upon getting back the car.
+
+## 🚕 Taxis
+
+Using taxis in Istanbul is very problematic, even for the locals. We suggest you avoid taking taxis and use public transportation as much as you can. Taxis are known to ask to be paid in Euros, ask for overinflated rates from tourists and refuse to drive the locals. 
+
+Should you decide to use a taxi, use only the official ones. They are yellow and have the license plates written around them. They should also have a small plaque in the taxi with the license plate and other indications on their legality. If you encounter an issue with the taxis you have the right to file an official complaint and even enclose a video/photo of the situation.
+
+The application to call a taxi is called BiTaksi, however it only allows one to register with a Turkish phone number. Due to the protests by the taxi drivers, there is no Uber or Bolt. However, it is possible to use Uber plus for airport transfers et al. Note that Istanbul is mostly very well connected with trains, despite the long distances. 

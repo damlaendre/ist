@@ -3,22 +3,19 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Főoldal
+  - name: Anasayfa
     url: /#top
     weight: 10
-  - name: Részvétel
-    url: https://forms.gle/SU54TxtCUmC9obbq8
+  - name: Katılım
+    url: https://forms.gle/ZPfoa3HFsrnePHmeA
     weight: 20
   - name: Program
     url: /#schedule
     weight: 30
-  - name: Helyszín
+  - name: Mekan
     url: /#venue
     weight: 40
-  - name: Szálláshely
-    url: /#accommodation
-    weight: 50
-  - name: Elérhetőség
+  - name: İletişim
     url: /#contact
-    weight: 70
+    weight: 50
     

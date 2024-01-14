@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Damla & Endre # Website name
-baseURL: 'https://damlaendre.github.io/sepsi/' # Website URL
+baseURL: 'https://damlaendre.github.io/ist/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -41,7 +41,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: hu
+defaultContentLanguage: tr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

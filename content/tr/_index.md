@@ -17,7 +17,7 @@ sections:
         url: https://forms.gle/Bw9dwZUoYgspjnuJ9
         icon: calendar-days
       announcement:
-        text: Şimdi sizden tarihi ve katılma niyetinizi not 
+        text: Sizden tarihi ve katılma niyetinizi not 
         link:
           text: etmenizi rica ediyoruz
           url: https://forms.gle/ZPfoa3HFsrnePHmeA

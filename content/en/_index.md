@@ -14,10 +14,10 @@ sections:
       text: 👋 Welcome to our wedding website! 👋
       primary_action:
         text: RSVP
-        url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+        url: https://forms.gle/kxCG22e8vi8JcfM86
         icon: calendar-days
       announcement:
-        text: At this stage, we ask you to take note of the date and 
+        text: At this stage, we only ask you to take note of the date and 
         link:
           text: RSVP
           url: https://forms.gle/2Eq7oZhvQa5VHxc87/
@@ -37,24 +37,25 @@ sections:
     id: schedule
     content:
       title: Schedule
-      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2023. More details will follow.
+      text: The wedding will take place on Aug. 10, starting at 18:30. More details will follow.
   - block: cta-image-paragraph
     id: venue
     content:
       items:
         - title: Venue
-          text: ⭐ Panorama Boutique Hotel ⭐
+          text: ⭐ A11 Hotel Bosphorus ⭐
           feature_icon: check
           features:
-            - "Address: Calea Valcele, DN13E 9, Sfântu Gheorghe 527175"
-            - "[See here the Google maps link📍](https://maps.app.goo.gl/1Afw4j53wqjFV3YF7)"
-            - "Website: http://www.panoramacenter.ro/"
-            - "Note: the venue is outside of Sepsiszentgyörgy, therefore we recommend staying overnight at one of the other accommodation alternative."
+            - "Address: Mimar Sinan, Paşa Limanı Cd. No:4, 34550 Üsküdar/İstanbul"
+            - "[See here the Google maps link📍](https://maps.app.goo.gl/GtT4GBTT9orkwY8c8)"
+            - "Website: https://a11hotel.com/"
+            - "Instagram: https://www.instagram.com/a11hotelbosphorus/"
+            - "Note: We suggest you write to us before approaching the hotel for any kind of issues, as their English-speaking staff is very limited. We negotiated a more favorable price at the hotel for wedding guests. See below."
           # Upload image to `assets/media/` and reference the filename here
-          image: panorama1.jpg
+          image: A11_wedding.jpeg
           button:
             text: How to get there & around
-            url: /sepsi/travel
+            url: /ist/en/travel
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
@@ -62,15 +63,15 @@ sections:
     content:
       items:
         - title: Accommodation
-          text: 🛏️ These are some possible websites with accommodation option in Sepsiszentgyörgy. It is a fairly small town, with walking distance to pretty much everywhere (except the wedding venue). Nevertheless, most restaurants, bars, and so on are in the center, so consider staying around there.
+          text: 🛏️ A11 Hotel Bosphorus !!!Discount until 31 April 2024!!!
           feature_icon: check
           features:
-            - "[trivago.ro](https://www.trivago.ro/en-US/lm?search=200-66808%3Bdr-20240719-20240721%3Brc-2-2)"
-            - "[travelminit.ro](https://travelminit.ro/en/accommodation/sepsiszentgyorgy?ci=2024-07-19&co=2024-07-21)"
-            - "[booking.com](https://www.booking.com/searchresults.de.html?ss=Sepsiszentgy%C3%B6rgy%2C+Kov%C3%A1szna+megye%2C+Rom%C3%A1nia&ssne=Bukarest&ssne_untouched=Bukarest&label=gen173nr-1FCAEoggI46AdIB1gEaMABiAEBmAEHuAEHyAEM2AEB6AEB-AECiAIBqAIDuAK29pusBsACAdICJDk1NGQ1Y2ZjLTM2ZWMtNGVmNi1hNjgyLTI3NTVlZWUxZDQ4NdgCBeACAQ&aid=304142&lang=de&sb=1&src_elem=sb&src=index&dest_id=-1170186&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=hu&ac_suggestion_list_length=2&search_selected=true&search_pageview_id=7d156c1bd032005d&ac_meta=GhA3ZDE1NmMxYmQwMzIwMDVkIAAoATICaHU6BlNlcHNpc0AASgBQAA%3D%3D&checkin=2024-07-19&checkout=2024-07-21&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure)"
-            - "[airbnb.com](https://www.airbnb.com/s/Sf%C3%A2ntu-Gheorghe--Covasna-County--Romania/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-01-01&monthly_length=3&price_filter_input_type=0&channel=EXPLORE&query=Sf%C3%A2ntu%20Gheorghe%2C%20Covasna%20County&place_id=ChIJ64pejL6ktEAR7lOCjtjuY68&date_picker_type=calendar&checkin=2024-07-19&checkout=2024-07-21&source=structured_search_input_header&search_type=autocomplete_click)"
+            - "We have a deal with the hotel until the end of April 2024, 15 rooms are reserved for us at a discounted price of 170 Euros (two people room) + 45 Euro per any extra person in the same room. Those who want to book a room should contact Mrs. Hasret at this number on WhatsApp +90 542 229 88 99. If the 15 rooms fill very fast, the hotel is flexible in extending the discounted rate for other rooms for our guests. We suggest you to make your room booking as soon as possible so we can negotiate further discounts for the rest of the rooms."
+            - "The rooms vary in size, so while there are single/double ones, bigger ones can accommodate up to 4 people. Some rooms have a circular bed, others have a normal shaped bed, some room have a jacuzzi inside. All rooms have a Bosphorus view."
+            - "If you wish to stay elsewhere, there are a few serviced apartments around the venue, as well as other hotels in the area. Unfortunately, Booking.com does not work anymore in Turkey and you should look for local alternatives for it."
+            - "We strongly advice to stay in an area close to the wedding venue on the night of the wedding. Because you never know how the traffic might be in terms of arriving on time, or how the taxi situation would be in the evening without getting scammed."
           # Upload image to `assets/media/` and reference the filename here
-          image: szentgyorgy-bazar.jpg
+          image: A11_hotel.jpg
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
   - block: markdown
@@ -80,6 +81,6 @@ sections:
       text: |-
         You can get in touch with us at:
         - 📧 [damlaendre@gmail.com](email:damlaendre@gmail.com)
-        - 📞 Endre Borbáth: [+49 1516 8744 123](call:+4915168744123)
-        - 📞 Zsuzsánna-Ella Borbáth: [+40 758 236 181](call:+40758236181)
+        - 📞 Damla: -
+        - 📞 Hilal: -
 ---

@@ -12,37 +12,40 @@ en:
   menu:
     main:
       - name: Home
-        url: https://damlaendre.github.io/sepsi/#top
+        url: https://damlaendre.github.io/ist/#top
         weight: 10
       - name: RSVP
-        url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+        url: https://forms.gle/kxCG22e8vi8JcfM86
         weight: 20
       - name: Schedule
-        url: https://damlaendre.github.io/sepsi/#schedule
+        url: https://damlaendre.github.io/ist/#schedule
         weight: 30
       - name: Venue
-        url: https://damlaendre.github.io/sepsi/#venue
+        url: https://damlaendre.github.io/ist/#venue
         weight: 40
       - name: Accommodation
-        url: https://damlaendre.github.io/sepsi/#accommodation
+        url: https://damlaendre.github.io/ist/#accommodation
         weight: 50
       - name: Transportation
-        url: https://damlaendre.github.io/sepsi/travel/
+        url: https://damlaendre.github.io/ist/travel/
         weight: 60
-      - name: Contact
-        url: https://damlaendre.github.io/sepsi/#contact
+      - name: Istanbul
+        url: https://damlaendre.github.io/ist/istanbul/
         weight: 70
+      - name: Contact
+        url: https://damlaendre.github.io/ist/#contact
+        weight: 80
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
-hu:
-  languageCode: hu
-  contentDir: content/hu/
+tr:
+  languageCode: tr
+  contentDir: content/tr/
   title: Damla & Endre
   params:
-    description: 👋 Üdvözlünk eskűvői honlapunkon! 👋
+    description: 👋 Düğünümüze hoş geldiniz! 👋
   #menu:
 #main:
 #- name: Főoldal

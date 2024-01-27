@@ -63,7 +63,7 @@ sections:
       text: |-
         Bizimle aşağıdaki yollardan iletişime geçebilirsiniz:
         - 📧 [damlaendre@gmail.com](email:damlaendre@gmail.com)
-        - 📞 Damla: -
-        - 📞 Hilal: -
+        - 📞 Damla: +49 172 665 85 68
+        - 📞 Hilal: +90 532 424 38 96
 
 ---

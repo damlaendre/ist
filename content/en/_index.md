@@ -19,7 +19,7 @@ sections:
       announcement:
         text: At this stage, we only ask you to take note of the date and 
         link:
-          text: RSVP
+          text: RSVP by the 30th of April.
           url: https://forms.gle/2Eq7oZhvQa5VHxc87/
     design:
       spacing:
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Schedule
-      text: The wedding will take place on Aug. 10, starting at 18:30. More details will follow.
+      text: The wedding will take place on Aug. 10, starting at 18:30. Please RSVP by the 30th of April. More details will follow.
   - block: cta-image-paragraph
     id: venue
     content:

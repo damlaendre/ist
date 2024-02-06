@@ -19,7 +19,7 @@ sections:
       announcement:
         text: At this stage, we only ask you to take note of the date and 
         link:
-          text: RSVP by the 30th of April.
+          text: RSVP by the 30th of April (click here).
           url: https://forms.gle/2Eq7oZhvQa5VHxc87/
     design:
       spacing:

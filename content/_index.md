@@ -13,7 +13,7 @@ sections:
       title: Damla & Endre
       text: 👋 Düğünümüze hoş geldiniz! 👋
       primary_action:
-        text: Lütfen 30 Nisan'a kadar katılım durumunuzu bize bildirin
+        text: Şuna (Lütfen Tıklayın) veya bildirmek için tıklayın falan mı yazsanız acaba
         url: https://forms.gle/Bw9dwZUoYgspjnuJ9
         icon: calendar-days
       announcement:

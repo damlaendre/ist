@@ -13,13 +13,13 @@ sections:
       title: Damla & Endre
       text: 👋 Welcome to our wedding website! 👋
       primary_action:
-        text: RSVP by the 30th of April (click here)
+        text: RSVP (click here)
         url: https://forms.gle/kxCG22e8vi8JcfM86
         icon: calendar-days
       announcement:
         text: At this stage, we only ask you to take note of the date and 
         link:
-          text: RSVP by the 30th of April (click here).
+          text: RSVP (click here).
           url: https://forms.gle/2Eq7oZhvQa5VHxc87/
     design:
       spacing:

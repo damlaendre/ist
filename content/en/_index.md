@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Schedule
-      text: The wedding will take place on Aug. 10, starting at 18:30. Please RSVP. More details will follow.
+      text: The wedding will take place on Aug. 10, starting at 19:30. Please RSVP. More details will follow.
   - block: cta-image-paragraph
     id: venue
     content:

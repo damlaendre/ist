@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Program
-      text: Düğünümüz 10 Ağustos 2024 tarihinde saat 18:30'da gerçekleşecektir. Detayları sizlerle yakında paylaşacağız.
+      text: Düğünümüz 10 Ağustos 2024 tarihinde saat 19:30'da gerçekleşecektir. Detayları sizlerle yakında paylaşacağız.
   - block: cta-image-paragraph
     id: venue
     content:

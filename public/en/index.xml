@@ -309,7 +309,7 @@
 
 
 
-&lt;div id=&#34;chart-395786214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-652189743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Wowchemy fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-395786214&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-652189743&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -731,7 +731,7 @@ Metrobuses are also buses, that are slightly larger in size and they have their 
 &lt;h2 id=&#34;-taxis&#34;&gt;🚕 Taxis&lt;/h2&gt;
 &lt;p&gt;Using taxis in Istanbul is very problematic, even for the locals. We suggest you avoid taking taxis and use public transportation as much as you can. Taxis are known to ask to be paid in Euros, ask for overinflated rates from tourists and refuse to drive the locals.&lt;/p&gt;
 &lt;p&gt;Should you decide to use a taxi, use only the official ones. They are yellow and have the license plates written around them. They should also have a small plaque in the taxi with the license plate and other indications on their legality. If you encounter an issue with the taxis you have the right to file an official complaint and even enclose a video/photo of the situation.&lt;/p&gt;
-&lt;p&gt;The application to call a taxi is called BiTaksi, however it only allows one to register with a Turkish phone number. Due to the protests by the taxi drivers, there is no Uber or Bolt. However, it is possible to use Uber plus for airport transfers et al. Note that Istanbul is mostly very well connected with trains, despite the long distances.&lt;/p&gt;
+&lt;p&gt;The application to call a taxi is called BiTaksi, and upon registration, it also works with non-Turkish phone numbers. It is usually the safest way to get a taxi, but the drivers still might not choose to pick you up if you are trying to go for a very short distance. If you are asked to pay more than what the app tells you, refuse to do so and consider calling the police (155). Due to the protests by the taxi drivers, there is no Uber or Bolt available in Turkey. It is possible to use Uber plus for airport transfers et al. Note that Istanbul is mostly very well connected with trains, despite the long distances.&lt;/p&gt;
 </description>
     </item>
     

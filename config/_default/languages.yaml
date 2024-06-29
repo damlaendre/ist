@@ -32,9 +32,18 @@ en:
       - name: Istanbul
         url: https://damlaendre.github.io/ist/istanbul/
         weight: 70
+      - name: Attire
+        url: https://damlaendre.github.io/ist/#attire
+        weight: 80
+      - name: Gift giving
+        url: https://damlaendre.github.io/ist/#gift
+        weight: 90
+      - name: Photos
+        url: https://damlaendre.github.io/ist/#photos
+        weight: 100
       - name: Contact
         url: https://damlaendre.github.io/ist/#contact
-        weight: 80
+        weight: 110
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

@@ -33,11 +33,19 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
-  - block: markdown
+  - block: cta-image-paragraph
     id: schedule
     content:
-      title: Schedule
-      text: The wedding will take place on Aug. 10, starting at 19:30. Please RSVP. More details will follow.
+      items:
+        - title: Schedule
+          feature_icon: check
+          features:
+            - "The wedding will take place on Aug. 10, starting at 19:30. Please RSVP."
+            - "To avoid delays, please plan your transportation considering that traffic may be heavy. You may have to wait for a long time in the coastal traffic on Saturday evening. You can contact us for any questions."
+            - "Our wedding will take place outdoors. We advise you to take precautions against the evening breeze and mosquitoes (especially if you are allergic)."
+          image: TR_invite.jpeg
+          design:
+              css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: venue
     content:
@@ -74,6 +82,48 @@ sections:
           image: A11_hotel.jpg
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: cta-image-paragraph
+    id: attire
+    content:
+      items:
+        - title: Attire
+          feature_icon: check
+          features:
+            - "In Turkey, weddings are an opportunity to get glamorous." 
+            - "Casual clothing like jeans, sneakers, and hiking sandals are not appropriate wedding attire (unless you combine them really well with the rest of your outfit)." 
+            - "You should therefore wear fancy party clothes of any color, but avoid white, off-white, full beige, or anything that is too white."
+            - "Other than that, guests can wear whatever they desire without worrying about outshining the couple."
+            - "Clothing that is too revealing is also culturally not appropriate."
+            - "Otherwise, you can definitely rock a dress with a train and high heels (like the picture on the right)."
+          # Upload image to `assets/media/` and reference the filename here
+          image: TR_dress.png
+          design:
+            css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: cta-image-paragraph
+    id: gift
+    content:
+      items:
+        - title: Gift giving
+          feature_icon: check
+          features:
+            - "In Turkey, the traditional wedding gift is a gold coin (see the picture on the right)."
+            - "Traditionally, you either pin it onto the couple or give it to the person helping them collect the wedding gifts. If you choose to do this, you can go to any jeweler and ask for a quarter (the smallest) or something bigger, depending on your budget."
+            - "If you choose not to pin it on us, you should write your name on a piece of paper and add it to the tiny sack that you put the coin in when giving it to us, so we can send you a thank you note."
+            - "If you come last minute or have no motivation to navigate the Turkish gold industry, foreign currency cash (Euro or US Dollar usually) is always a good gift as well. You can also pin the banknotes onto the dresses, but we would prefer if you gave such gifts in an envelope instead."
+            - "Compiling a wishlist or registry is not really a thing we do in Turkey, since couples usually gather their first homes together with the help of their families or their own funds before the wedding."
+          # Upload image to `assets/media/` and reference the filename here
+          image: TR_gold.png
+          design:
+            css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: photos
+    content:
+      title: Photos
+      text: |-
+        - ☆ We would grately appreciate if you could share your photos with us! ☆
+        - ☆ We will share a selection with all guests after the event. ☆
+        - <br>
+        - <a href="https://www.dropbox.com/request/Mrt6o971jFehHJscqq92" target="_blank" style="display: block; margin: 0 auto; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; width: fit-content;">Please upload them here</a>
   - block: markdown
     id: contact
     content:

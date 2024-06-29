@@ -15,7 +15,10 @@ main:
   - name: Mekan
     url: /#venue
     weight: 40
+  - name: Fotoğraflar
+    url: /#photos
+    weight: 50
   - name: İletişim
     url: /#contact
-    weight: 50
+    weight: 60
     

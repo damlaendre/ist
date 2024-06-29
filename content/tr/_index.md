@@ -33,11 +33,19 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
-  - block: markdown
+  - block: cta-image-paragraph
     id: schedule
     content:
-      title: Program
-      text: Düğünümüz 10 Ağustos 2024 tarihinde saat 19:30'da gerçekleşecektir. Detayları sizlerle yakında paylaşacağız.
+      items:
+        - title: Program
+          feature_icon: check
+          features:
+            - "Düğünümüz 10 Ağustos 2024 tarihinde saat 19:30'da gerçekleşecektir. "
+            - "Gecikmemek için lütfen trafiğin yoğun olabileceğini göz önüne alarak ulaşımınızı planlayın. Cumartesi günü akşam saatlerinde sahil trafiğinde uzun süre beklemeniz gerekebilir. Sorularınız için bizimle iletişime geçebilirsiniz."
+            - "Düğünümüz açık havada gerçekleşecektir. Akşam esintisine ve sivrisineklere karşı (özellikle alerjiniz varsa) önlem almanızı tavsiye ederiz."
+          image: TR_invite.jpeg
+          design:
+              css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: venue
     content:
@@ -56,6 +64,15 @@ sections:
             url: https://maps.app.goo.gl/GtT4GBTT9orkwY8c8
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: photos
+    content:
+      title: Fotoğraflar
+      text: |-
+        - ☆ Fotoğraflarınızı bizimle paylaşabilirseniz çok memnun oluruz! ☆
+        - ☆ Etkinlikten sonra bir seçkiyi tüm misafirlerle paylaşacağız. ☆
+        - <br>
+        - <a href="https://www.dropbox.com/request/Mrt6o971jFehHJscqq92" target="_blank" style="display: block; margin: 0 auto; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; width: fit-content;">Lütfen buraya yükleyin</a>
   - block: markdown
     id: contact
     content:

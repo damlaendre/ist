@@ -10,7 +10,7 @@ Istanbul has two airports. The one on the Anatalion side is Sabiha Gokcen Airpor
 The second, much further away airport is the Istanbul Airport (IST), from which there is no direct public transportation to the city.
 The airport is also 3 hours away from "central" Istanbul. Still there are airport shuttles to central locations from this airport as well.
 
-Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can [download it here](/ist/assets/pdf/transport_to_Uskudar.pdf)
+Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can [download it here](/ist/media/transport_to_Uskudar.pdf)
 
 ## Getting around in Istanbul
 

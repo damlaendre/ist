@@ -309,7 +309,7 @@
 
 
 
-&lt;div id=&#34;chart-652189743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-561829473&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Wowchemy fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-652189743&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-561829473&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -710,12 +710,13 @@ Parallel 4   :         des6, after des4, 1d
 &lt;p&gt;Istanbul has two airports. The one on the Anatalion side is Sabiha Gokcen Airport (SAW) and it is the closest one to the venue. We strongly suggest you use this airport instead of the other. There is a direct subway from the airport to the hotel (or many places on the Anatolian side in general) for those who will be staying there. Reaching the hotel from Kadikoy (the Anatolian side&amp;rsquo;s central point) is also possible by subway. If you choose to stay on the European side, you can’t use the subway only, but you need to take the Marmaray that ultimately also goes under the water.&lt;/p&gt;
 &lt;p&gt;The second, much further away airport is the Istanbul Airport (IST), from which there is no direct public transportation to the city.
 The airport is also 3 hours away from &amp;ldquo;central&amp;rdquo; Istanbul. Still there are airport shuttles to central locations from this airport as well.&lt;/p&gt;
+&lt;p&gt;Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can &lt;a href=&#34;http://localhost:1313/ist/ist/assets/pdf/transport_to_Uskudar.pdf&#34;&gt;download it here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;getting-around-in-istanbul&#34;&gt;Getting around in Istanbul&lt;/h2&gt;
 &lt;p&gt;One needs an Istanbulkart to use the public transportation. This you can get from the machines at the airport. You can then connect it to the application on your phone and connect it to your credit card as well. If you choose, you can also put money into your card from the machines at the entrance/exit of subway stations, ferries/motoboats, and metrobuses. They can be used on almost every public transportation vehicle, excluding the Dolmuş - Minibuses.&lt;/p&gt;
 &lt;p&gt;Istanbulkart official website: &lt;a href=&#34;https://www.istanbulkart.istanbul/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.istanbulkart.istanbul/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;When using the subways or metrobuses, you should ask for a refund of your travel ticket if you don&amp;rsquo;t travel the entire length of the line, before you exit the station. However, for those without a personalised Istanbulkart for travel, the fee for a single journey is always calculated at the maximum. This means that they charge you as if you have used the entire line from one end to another. If you personalise your card, you can get some refund at the end of your trip, to do so you should tap your card to the refund machines. Those without a Turkish ID number can unfortunately not personalise their cards, but a Turkish citizen can own up to 4 cards under their name, so you might want to make new friends to ask about this too!&lt;/p&gt;
-&lt;p&gt;!!! Most public transportation stop around midnight in Istanbul!!!
-Yes, we know it is crazy&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;!!! Most public transportation stop around midnight in Istanbul!!!
+Yes, we know it is crazy&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-subway-metro&#34;&gt;🚆 Subway (Metro)&lt;/h2&gt;
 &lt;h3 id=&#34;marmaray&#34;&gt;Marmaray&lt;/h3&gt;
 &lt;p&gt;We have a speacial subway line that connects both continents through a train tunnel that goes under the sea. If you choose to stay on the European side, you need to take this one to reach the venue. Marmaray also connects to the subway lines very smoothly and cover a large area. It is Damla&amp;rsquo;s favourite means of transportation after the ferry/motorboat in Istanbul.&lt;/p&gt;
@@ -747,10 +748,12 @@ Metrobuses are also buses, that are slightly larger in size and they have their 
 Very few glass bottles have a deposit that you can get back by taking it to a designated kiosk/Tekel (like a Spati).&lt;/p&gt;
 &lt;h3 id=&#34;mobile-phones&#34;&gt;Mobile Phones&lt;/h3&gt;
 &lt;p&gt;Turkey is not within the EU roaming scheme unfortunately. However, you can easily buy a package for your trip. Moreover, even at the airport you can easily get a prepaid simcard. WiFi is common, but you cannot fully depend on it to navigate yourself around the city, especially if you will use the public transportation application for the tickets.&lt;/p&gt;
+&lt;p&gt;It might also make sense to get an esim for the duration of your stay. One provider with relatively favorable rates is RedteaGO, &lt;a href=&#34;https://esim.redteago.com/esim-turkey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see here.&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;calling-landline-phones&#34;&gt;Calling Landline Phones&lt;/h3&gt;
 &lt;p&gt;Istanbul stands on two continents. This is why there are two area codes. For the Anatolian side, it’s 0216, and for the European side, it’s 0212. When calling a landline from your phone, you need to know the area codes. This applies to everywhere else in Turkey. For mobile phones, Turkish numbers start with a &amp;ldquo;+90&amp;rdquo;. If you want to call a landline number in a different city, you need to make sure to know the area code first. For example, Ankara is 0312.&lt;/p&gt;
 &lt;h3 id=&#34;money&#34;&gt;Money&lt;/h3&gt;
-&lt;p&gt;Turkey uses Turkish Lira as its currency and while you can withdraw money from any bank or exchange office, many things including many taxis and the application for the public transportation accept credit cards.&lt;/p&gt;
+&lt;p&gt;Turkey uses Turkish Lira as its currency and while you can withdraw money from any bank or exchange office, many things including many taxis and the application for the public transportation accept credit cards.
+Nevertheless, we recommend to have a lot of Turkish Lira in cash with you. Many places take cards but things are more expensive that way. As a result the locals just transfer money to the shops on the spot through banks. But for tourists this is not as possible. If you feel uncomfortable about this, you can always pay with a card almost everywhere, but it will be a bit more expensive.&lt;/p&gt;
 &lt;h3 id=&#34;safety&#34;&gt;Safety&lt;/h3&gt;
 &lt;p&gt;Istanbul is mostly quite safe. However as a metropolis of about 18 million people, it has also seen terror attacks. This means you should beware of pickpockets and when/where you walk at night time. Do not leave your things unattended. In case you are in a crowded space and there is some sort of commotion, a loud bang, etc. make sure you have a safe distance from it. Usually, Istiklal Street, Taksim and big shopping malls are where we are the most cautious about these things. It&amp;rsquo;s also the reason why shopping malls and airports have extra security and xray machines at the entrance.&lt;/p&gt;
 &lt;p&gt;Also, if a shoe shiner drops their brushes in front of you, please do not pick it up.&lt;/p&gt;

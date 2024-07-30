@@ -13,14 +13,14 @@ sections:
       title: Damla & Endre
       text: 👋 Düğünümüze hoş geldiniz! 👋
       primary_action:
-        text: Lütfen 30 Nisan'a kadar katılım durumunuzu bize bildirin (form için buraya tıklayın)
-        url: https://forms.gle/Bw9dwZUoYgspjnuJ9
-        icon: calendar-days
+        text: 
+        url: 
+        icon:
       announcement:
-        text: Şimdi sizden tarihi ve katılma niyetinizi not 
+        text:
         link:
-          text: etmenizi rica ediyoruz
-          url: https://forms.gle/ZPfoa3HFsrnePHmeA
+          text:
+          url:
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -33,14 +33,20 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
-  - block: markdown
+  - block: cta-image-paragraph
     id: schedule
     content:
-      title: Program
-      text: |-
-        - ✔ Düğünümüz 10 Ağustos 2024 tarihinde saat 19:30'da gerçekleşecektir. 
-        - ✔ Gecikmemek için lütfen trafiğin yoğun olabileceğini göz önüne alarak ulaşımınızı planlayın. Cumartesi günü akşam saatlerinde sahil trafiğinde uzun süre beklemeniz gerekebilir. Sorularınız için bizimle iletişime geçebilirsiniz.
-        - ✔ Düğünümüz açık havada gerçekleşecektir. Akşam esintisine ve sivrisineklere karşı (özellikle alerjiniz varsa) önlem almanızı tavsiye ederiz.
+      items:
+        - title: Program
+          feature_icon: check
+          features:
+            - "Düğünümüz 10 Ağustos 2024 tarihinde saat 19:30'da gerçekleşecektir. "
+            - "Gecikmemek için lütfen trafiğin yoğun olabileceğini göz önüne alarak ulaşımınızı planlayın. Cumartesi günü akşam saatlerinde sahil trafiğinde uzun süre beklemeniz gerekebilir. Sorularınız için bizimle iletişime geçebilirsiniz. Bize Whatsapp gruplarından ulaşabilirsiniz."
+            - "Düğünümüz açık havada gerçekleşecektir. Akşam esintisine ve sivrisineklere karşı (özellikle alerjiniz varsa) önlem almanızı tavsiye ederiz."
+          image: TR_invite.jpeg
+          design:
+              css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: cta-image-paragraph
     id: venue
     content:
       items:
@@ -50,7 +56,7 @@ sections:
           features:
             - "Adres: Mimar Sinan, Paşa Limanı Cd. No:4, 34550 Üsküdar/İstanbul"
             - "Web sitesi: https://a11hotel.com/"
-            - "Not: Davetlilerimiz için otelde sınırlı sayıda oda ayırtılmıştır. Bilgi ve rezervasyon için Hasret Hanım'a ulaşabilirsiniz: +90 542 229 88 99"
+            - "Otelde maalesef vale hizmeti bulunmamaktadır. Anlaşmalı taşeron bir vale durumu söz konusudur. Fakat araçların güvenliği için kesinlikle bir garanti verilememektedir. Dolayısıyla toplu taşıma ya da taksi ile otele gelmenizi şiddetle tavsiye ederiz. Anlaşmalı taşeron vale aynı zamanda nakit ücrete tabidir ve en son aldığımız duyuma göre bu ücret 300 TRY civarında."
           # Upload image to `assets/media/` and reference the filename here
           image: A11_wedding.jpeg
           button:
@@ -76,5 +82,6 @@ sections:
         - 📧 [damlaendre@gmail.com](email:damlaendre@gmail.com)
         - 📞 Damla: +49 172 665 85 68
         - 📞 Hilal: +90 532 424 38 96
+        - Bize Whatsapp gruplarından ulaşabilirsiniz.
 
 ---

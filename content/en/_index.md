@@ -12,15 +12,11 @@ sections:
     content:
       title: Damla & Endre
       text: 👋 Welcome to our wedding website! 👋
-      primary_action:
-        text: RSVP (click here)
-        url: https://forms.gle/kxCG22e8vi8JcfM86
-        icon: calendar-days
       announcement:
-        text: At this stage, we only ask you to take note of the date and 
+        text: 
         link:
-          text: RSVP (click here).
-          url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+          text: 
+          url: 
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -58,7 +54,6 @@ sections:
             - "[See here the Google maps link📍](https://maps.app.goo.gl/GtT4GBTT9orkwY8c8)"
             - "Website: https://a11hotel.com/"
             - "Instagram: https://www.instagram.com/a11hotelbosphorus/"
-            - "Note: We suggest you write to us before approaching the hotel for any kind of issues, as their English-speaking staff is very limited. We negotiated a more favorable price at the hotel for wedding guests. See below."
           # Upload image to `assets/media/` and reference the filename here
           image: A11_wedding.jpeg
           button:

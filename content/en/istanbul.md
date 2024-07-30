@@ -16,13 +16,16 @@ Very few glass bottles have a deposit that you can get back by taking it to a de
 
 Turkey is not within the EU roaming scheme unfortunately. However, you can easily buy a package for your trip. Moreover, even at the airport you can easily get a prepaid simcard. WiFi is common, but you cannot fully depend on it to navigate yourself around the city, especially if you will use the public transportation application for the tickets.
 
+It might also make sense to get an esim for the duration of your stay. One provider with relatively favorable rates is RedteaGO, [see here.](https://esim.redteago.com/esim-turkey)
+
 ### Calling Landline Phones
 
 Istanbul stands on two continents. This is why there are two area codes. For the Anatolian side, it’s 0216, and for the European side, it’s 0212. When calling a landline from your phone, you need to know the area codes. This applies to everywhere else in Turkey. For mobile phones, Turkish numbers start with a "+90". If you want to call a landline number in a different city, you need to make sure to know the area code first. For example, Ankara is 0312.
 
 ### Money
 
-Turkey uses Turkish Lira as its currency and while you can withdraw money from any bank or exchange office, many things including many taxis and the application for the public transportation accept credit cards.
+Turkey uses Turkish Lira as its currency and while you can withdraw money from any bank or exchange office, many things including many taxis and the application for the public transportation accept credit cards. 
+Nevertheless, we recommend to have a lot of Turkish Lira in cash with you. Many places take cards but things are more expensive that way. As a result the locals just transfer money to the shops on the spot through banks. But for tourists this is not as possible. If you feel uncomfortable about this, you can always pay with a card almost everywhere, but it will be a bit more expensive.
 
 ### Safety
 

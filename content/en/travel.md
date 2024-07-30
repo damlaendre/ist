@@ -10,6 +10,8 @@ Istanbul has two airports. The one on the Anatalion side is Sabiha Gokcen Airpor
 The second, much further away airport is the Istanbul Airport (IST), from which there is no direct public transportation to the city.
 The airport is also 3 hours away from "central" Istanbul. Still there are airport shuttles to central locations from this airport as well.
 
+Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can [download it here](/ist/assets/pdf/transport_to_Uskudar.pdf)
+
 ## Getting around in Istanbul
 
 One needs an Istanbulkart to use the public transportation. This you can get from the machines at the airport. You can then connect it to the application on your phone and connect it to your credit card as well. If you choose, you can also put money into your card from the machines at the entrance/exit of subway stations, ferries/motoboats, and metrobuses. They can be used on almost every public transportation vehicle, excluding the Dolmuş - Minibuses.
@@ -18,8 +20,8 @@ Istanbulkart official website: https://www.istanbulkart.istanbul/
 
 When using the subways or metrobuses, you should ask for a refund of your travel ticket if you don't travel the entire length of the line, before you exit the station. However, for those without a personalised Istanbulkart for travel, the fee for a single journey is always calculated at the maximum. This means that they charge you as if you have used the entire line from one end to another. If you personalise your card, you can get some refund at the end of your trip, to do so you should tap your card to the refund machines. Those without a Turkish ID number can unfortunately not personalise their cards, but a Turkish citizen can own up to 4 cards under their name, so you might want to make new friends to ask about this too!
 
-!!! Most public transportation stop around midnight in Istanbul!!!
-Yes, we know it is crazy...
+**!!! Most public transportation stop around midnight in Istanbul!!!
+Yes, we know it is crazy...**
 
 ## 🚆 Subway (Metro)
 

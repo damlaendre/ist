@@ -309,7 +309,7 @@
 
 
 
-&lt;div id=&#34;chart-561829473&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-735648192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Wowchemy fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-561829473&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-735648192&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -710,7 +710,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;p&gt;Istanbul has two airports. The one on the Anatalion side is Sabiha Gokcen Airport (SAW) and it is the closest one to the venue. We strongly suggest you use this airport instead of the other. There is a direct subway from the airport to the hotel (or many places on the Anatolian side in general) for those who will be staying there. Reaching the hotel from Kadikoy (the Anatolian side&amp;rsquo;s central point) is also possible by subway. If you choose to stay on the European side, you can’t use the subway only, but you need to take the Marmaray that ultimately also goes under the water.&lt;/p&gt;
 &lt;p&gt;The second, much further away airport is the Istanbul Airport (IST), from which there is no direct public transportation to the city.
 The airport is also 3 hours away from &amp;ldquo;central&amp;rdquo; Istanbul. Still there are airport shuttles to central locations from this airport as well.&lt;/p&gt;
-&lt;p&gt;Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can &lt;a href=&#34;http://localhost:1313/ist/ist/assets/pdf/transport_to_Uskudar.pdf&#34;&gt;download it here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Merve has prepared the attached pdf to help you navigate the trip from Istanbul Airport or from the Sabiha Gökcen airport to Üsküdar. You can &lt;a href=&#34;http://localhost:1313/ist/ist/uploads/transport_to_Uskudar.pdf&#34;&gt;download it here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;getting-around-in-istanbul&#34;&gt;Getting around in Istanbul&lt;/h2&gt;
 &lt;p&gt;One needs an Istanbulkart to use the public transportation. This you can get from the machines at the airport. You can then connect it to the application on your phone and connect it to your credit card as well. If you choose, you can also put money into your card from the machines at the entrance/exit of subway stations, ferries/motoboats, and metrobuses. They can be used on almost every public transportation vehicle, excluding the Dolmuş - Minibuses.&lt;/p&gt;
 &lt;p&gt;Istanbulkart official website: &lt;a href=&#34;https://www.istanbulkart.istanbul/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.istanbulkart.istanbul/&lt;/a&gt;&lt;/p&gt;

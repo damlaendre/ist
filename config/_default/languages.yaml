@@ -14,8 +14,8 @@ en:
       - name: Home
         url: https://damlaendre.github.io/ist/#top
         weight: 10
-      - name: RSVP
-        url: https://forms.gle/kxCG22e8vi8JcfM86
+      - name: Menu
+        url: https://damlaendre.github.io/ist/#menu
         weight: 20
       - name: Schedule
         url: https://damlaendre.github.io/ist/#schedule

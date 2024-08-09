@@ -33,6 +33,38 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
+  - block: markdown
+    id: menu
+    content:
+      title: Menu
+      text: |-
+        
+        **Geleneksel Mere Tabağı**
+        
+        - Taze dereotu eşliğinde kayısılı fava
+        - Zeytinyağlı vişneli yaprak sarma
+        - Girit ezmesi
+        - Közlenmiş biber ile harmanlanmış patlıcan salatası
+        - Havuç ezmesi
+        - Mini kaşıklarda Haydari
+        - Acılı Ezme
+        
+        **Ara Sıcak**
+        
+        - Rulo Sebzeli çin böreği
+        
+        **Ana Menü**
+        
+        - Hünkar Beğendi
+        - Marine edilmiş dana eti ve Patlıcan beğendi 
+        - Tereyağlı Pirinç Pilavı
+        - Etsiz Karnıyarık veya Ratatouille
+        - Firinda patate
+
+        **Tatlı**
+        
+        - Pasta
+
   - block: cta-image-paragraph
     id: schedule
     content:

@@ -6,8 +6,8 @@ main:
   - name: Anasayfa
     url: /#top
     weight: 10
-  - name: Katılım
-    url: https://forms.gle/ZPfoa3HFsrnePHmeA
+  - name: Menu
+    url: /#menu
     weight: 20
   - name: Program
     url: /#schedule

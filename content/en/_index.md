@@ -29,6 +29,38 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
+  - block: markdown
+    id: menu
+    content:
+      title: Menu
+      text: |-
+        
+        **Traditional Meze Platter**
+        
+        - Apricot fava with fresh dill
+        - Stuffed grape leaves with sour cherries
+        - Cretan paste
+        - Roasted eggplant salad with grilled peppers
+        - Carrot paste
+        - Haydari on mini spoons
+        - Spicy paste
+        
+        **Entrée**
+        
+        - Vegetable spring rolls
+        
+        **Main Course**
+        
+        - Hünkar Beğendi (Sultan's Delight)
+        - Marinated beef and eggplant purée
+        - Buttered rice pilaf
+        - Meatless stuffed eggplant or ratatouille
+        - Oven-baked potatoes
+
+        **Dessert**
+        
+        - Cake
+        
   - block: cta-image-paragraph
     id: schedule
     content:

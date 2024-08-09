@@ -58,7 +58,7 @@ sections:
         - Hünkar Beğendi
         - Marine edilmiş dana eti ve Patlıcan beğendi 
         - Tereyağlı Pirinç Pilavı
-        - Etsiz Karnıyarık veya Ratatouille
+        - *Vejetaryen: Etsiz Karnıyarık veya Ratatouille*
         - Firinda patate
 
         **Tatlı**

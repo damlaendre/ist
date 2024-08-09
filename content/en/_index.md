@@ -54,13 +54,13 @@ sections:
         - Hünkar Beğendi (Sultan's Delight)
         - Marinated beef and eggplant purée
         - Buttered rice pilaf
-        - Meatless stuffed eggplant or ratatouille
+        - *Vegetarian: Meatless stuffed eggplant or ratatouille*
         - Oven-baked potatoes
 
         **Dessert**
         
         - Cake
-        
+
   - block: cta-image-paragraph
     id: schedule
     content:
